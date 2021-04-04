@@ -15,4 +15,4 @@ typescript 4.2.2
 # Refs
 
 - デプロイ先
-  - https://zenn.dev/linnefromice/articles/use-alephjs-and-deploy-to-vercel
+  - https://alephjs-counter-app-linnefromice.vercel.app/
